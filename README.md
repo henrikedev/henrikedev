@@ -1,5 +1,8 @@
-### Olá, meu nome é Henrique, sou Engenheiro Ambiental ♻️ de formação e programador por paixão. Atuo a mais de 8 anos na área de Tecnologia da Informação e, por mais estranho que possa parecer um Engenheiro Ambiental programador, eu me tornei Engenheiro Ambiental exatamente por causa da programação.
-### Eu já atuava como desenvolvimento web quando começaram a surgir oportunidades de desenvolver sistemas voltados para os processos ambientais e foi aí que eu senti a necessidade de uma formação na área para entender as regras de negócio do setor de meio ambiente e conseguir entregar soluções eficazes. Atualmente eu procuro alinhar ambos os setores desenvolvendo ferramentas e soluções, através da programação, para a área ambiental, mas também me lanço de cabeça em projetos que envolvam outras áreas, uma vez que minha paixão é resolver problemas, sejam eles quais forem.
+### Olá, meu nome é Henrique, sou Engenheiro por formação e programador por paixão. Atuo a mais de 8 anos na área de Tecnologia da Informação no setor de Tecnologia da Informação, principalmente na área de telecomunicações com atuação em empresas provedoras de internet.
+### Atualmente atuo como Q.A/Analista de Testes de software ERP para automação comercial utilizando Delphi com banco de dados Firebird e ferramenta SGBD IBExpert.
+
+### Stacks as quais possuo experiência
+<i class="fa-brands fa-php"></i>
 
 ### Entre em contato comigo!
 
