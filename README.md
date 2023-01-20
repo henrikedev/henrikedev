@@ -1,5 +1,5 @@
 ### Olá, meu nome é Henrique, sou Engenheiro por formação e programador por paixão. Atuo a mais de 8 anos na área de Tecnologia da Informação no setor de Tecnologia da Informação, principalmente na área de telecomunicações com atuação em empresas provedoras de internet.
-### Atualmente atuo como Q.A/Analista de Testes de software ERP para automação comercial utilizando Delphi com banco de dados Firebird e ferramenta SGBD IBExpert.
+### Atualmente componho o time de P&D da Linx|Stone como Quality Assurance Tester na vertical automotiva. Possuo experiência em elaboração, análise e execução de cenários de testes manuais Front-End em plataformas Web, Desktop e Mobile; Back-End em API RESTfull utilizando o Swagger e Postman, report de bugs utilizando Jira Software e automatização de testes utilizando Robot Framework com Selenium Webdriver e GeckoDriver através da escrita de BDD's com linguagem Gherkin..
 ### Também tenho experiência com desenvolvimento de Chatbots utilizando IA (Inteligência Artificial) e Dialogflow e desenvolvimento web.
 
 ### Stacks as quais possuo experiência
